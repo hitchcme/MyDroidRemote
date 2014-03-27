@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="16dp"
+        android:text="Projector"
+		android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/projector_power"
+        android:layout_width="84dp"
+        android:layout_height="60dp"
+        android:layout_x="272dp"
+        android:layout_y="11dp"
+        android:text="Power" />
+
+    <Button
+        android:id="@+id/projector_up"
+        android:layout_width="68dp"
+        android:layout_height="50dp"
+        android:layout_x="208dp"
+        android:layout_y="73dp"
+        android:text="▲"
+        android:textSize="30dp" />    
+
+    <Button
+        android:id="@+id/projector_down"
+        android:layout_width="68dp"
+        android:layout_height="50dp"
+        android:layout_x="208dp"
+        android:layout_y="176dp"
+        android:text="▼"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/projector_right"
+        android:layout_width="50dp"
+        android:layout_height="68dp"
+        android:layout_x="269dp"
+        android:layout_y="116dp"
+        android:text="►"
+        android:textSize="25dp" />
+    <Button
+        android:id="@+id/projector_ok"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_x="217dp"
+        android:layout_y="125dp"
+        android:text="OK" />
+
+    <Button
+        android:id="@+id/projector_left"
+        android:layout_width="50dp"
+        android:layout_height="68dp"
+        android:layout_x="165dp"
+        android:layout_y="116dp"
+        android:text="◀"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/projector_freeze"
+        android:layout_width="98dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="356dp"
+        android:text="Freeze" />
+
+    <Button
+        android:id="@+id/projector_resync"
+        android:layout_width="98dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="301dp"
+        android:text="Re-Sync" />
+
+    <Button
+        android:id="@+id/projector_reset"
+        android:layout_width="98dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="246dp"
+        android:text="Reset" />
+
+    <Button
+        android:id="@+id/projector_menu"
+        android:layout_width="98dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="191dp"
+        android:text="Menu" />
+
+    <Button
+        android:id="@+id/projector_inputs"
+        android:layout_width="99dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="131dp"
+        android:text="Inputs" />
+
+    <Button
+        android:id="@+id/projector_remotes"
+        android:layout_width="99dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="76dp"
+        android:text="Remotes" />
+
+    <Button
+        android:id="@+id/projector_screen"
+        android:layout_width="98dp"
+        android:layout_height="98dp"
+        android:layout_x="13dp"
+        android:layout_y="432dp"
+        android:text="Screen" />
+
+    <Button
+        android:id="@+id/projector_vga"
+        android:layout_width="115dp"
+        android:layout_height="49dp"
+        android:layout_x="127dp"
+        android:layout_y="432dp"
+        android:text="VGA" />
+
+    <Button
+        android:id="@+id/projector_composite"
+        android:layout_width="115dp"
+        android:layout_height="49dp"
+        android:layout_x="242dp"
+        android:layout_y="432dp"
+        android:text="Composite" />
+
+    <Button
+        android:id="@+id/projector_svideo"
+        android:layout_width="115dp"
+        android:layout_height="49dp"
+        android:layout_x="127dp"
+        android:layout_y="481dp"
+        android:text="S-Video" />
+
+    <Button
+        android:id="@+id/projector_hdmi"
+        android:layout_width="115dp"
+        android:layout_height="49dp"
+        android:layout_x="242dp"
+        android:layout_y="479dp"
+        android:text="HDMI" />
+
+    <Button
+        android:id="@+id/projector_ks1"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:layout_x="165dp"
+        android:layout_y="265dp"
+        android:text="↔"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/projector_ks2"
+        android:layout_width="154dp"
+        android:layout_height="wrap_content"
+        android:layout_x="165dp"
+        android:layout_y="316dp"
+        android:text="↔"
+        android:textSize="30dp" />
+
+</AbsoluteLayout>

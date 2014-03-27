@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="16dp"
+        android:text="DirecTV"
+		android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/dtv_1"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="19dp"
+        android:layout_y="130dp"
+        android:text="1" />
+
+    <Button
+        android:id="@+id/dtv_2"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="116dp"
+        android:layout_y="130dp"
+        android:text="2" />
+
+    <Button
+        android:id="@+id/dtv_3"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="215dp"
+        android:layout_y="130dp"
+        android:text="3" />
+
+    <Button
+        android:id="@+id/dtv_4"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="19dp"
+        android:layout_y="178dp"
+        android:text="4" />
+
+    <Button
+        android:id="@+id/dtv_5"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="116dp"
+        android:layout_y="178dp"
+        android:text="5" />
+
+    <Button
+        android:id="@+id/dtv_6"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="215dp"
+        android:layout_y="178dp"
+        android:text="6" />
+
+    <Button
+        android:id="@+id/dtv_7"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="19dp"
+        android:layout_y="228dp"
+        android:text="7" />
+
+    <Button
+        android:id="@+id/dtv_8"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="116dp"
+        android:layout_y="228dp"
+        android:text="8" />
+
+    <Button
+        android:id="@+id/dtv_9"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="215dp"
+        android:layout_y="228dp"
+        android:text="9" />
+
+    <Button
+        android:id="@+id/dtv_tack"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="19dp"
+        android:layout_y="278dp"
+        android:text="-" />
+
+    <Button
+        android:id="@+id/dtv_0"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="116dp"
+        android:layout_y="278dp"
+        android:text="0" />
+
+    <Button
+        android:id="@+id/dtv_enter"
+        android:layout_width="85dp"
+        android:layout_height="45dp"
+        android:layout_x="215dp"
+        android:layout_y="278dp"
+        android:text="Enter" />
+
+</AbsoluteLayout>

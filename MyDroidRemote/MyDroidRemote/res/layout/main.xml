@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="16dp"
+        android:text="Remote Controls"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <Button
+        android:id="@+id/remotes_dtv"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="76dp"
+        android:clickable="true"
+        android:text="DirecTV" />
+
+    <Button
+        android:id="@+id/remotes_wii"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="131dp"
+        android:clickable="true"
+        android:text="Wii" />
+
+    <Button
+        android:id="@+id/remotes_dvdvcr"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="186dp"
+        android:clickable="true"
+        android:text="DVD / VCR" />
+        
+    <Button
+        android:id="@+id/remotes_appleremote"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="241dp"
+        android:clickable="true"
+        android:text="Apple Remote" />
+
+    <Button
+        android:id="@+id/remotes_vizio"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="296dp"
+        android:clickable="true"
+        android:text="Vizio" />
+
+    <Button
+        android:id="@+id/remotes_sar"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="351dp"
+        android:clickable="true"
+        android:text="Audio Receiver" />
+
+    
+            <Button
+        android:id="@+id/remotes_remotes"
+        android:layout_width="99dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="76dp"
+        android:text="Remotes" />
+
+    <Button
+        android:id="@+id/remotes_inputs"
+        android:layout_width="99dp"
+        android:layout_height="60dp"
+        android:layout_x="13dp"
+        android:layout_y="131dp"
+        android:text="Inputs" />
+
+    <Button
+        android:id="@+id/remotes_power"
+        android:layout_width="84dp"
+        android:layout_height="60dp"
+        android:layout_x="272dp"
+        android:layout_y="11dp"
+        android:text="Power" />
+
+    <Button
+        android:id="@+id/remotes_projector"
+        android:layout_width="236dp"
+        android:layout_height="60dp"
+        android:layout_x="120dp"
+        android:layout_y="406dp"
+        android:clickable="true"
+        android:text="Projector" />
+
+</AbsoluteLayout>

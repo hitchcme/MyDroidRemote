@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/SAR_Power"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="261dp"
+        android:layout_y="7dp"
+        android:text="Power" />
+
+    <Button
+        android:id="@+id/SAR_Vid1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="7dp"
+        android:layout_y="215dp"
+        android:text="Vid1" />
+
+    <Button
+        android:id="@+id/SAR_AmpMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="7dp"
+        android:layout_y="38dp"
+        android:text="Amp Menu" />
+
+    <Button
+        android:id="@+id/SAR_DVDMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="6dp"
+        android:layout_y="79dp"
+        android:text="DVD Menu" />
+
+    <Button
+        android:id="@+id/SAR_Display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="6dp"
+        android:layout_y="120dp"
+        android:text="Display" />
+
+    <Button
+        android:id="@+id/SAR_Mute"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="257dp"
+        android:layout_y="219dp"
+        android:text="Mute" />
+
+    <Button
+        android:id="@+id/SAR_VUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="268dp"
+        android:layout_y="177dp"
+        android:text="up" />
+
+    <Button
+        android:id="@+id/SAR_VDown"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="256dp"
+        android:layout_y="262dp"
+        android:text="Down" />
+
+    <Button
+        android:id="@+id/SAR_Right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="252dp"
+        android:layout_y="76dp"
+        android:text="Right" />
+
+    <Button
+        android:id="@+id/SAR_Down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="196dp"
+        android:layout_y="122dp"
+        android:text="Down" />
+
+    <Button
+        android:id="@+id/SAR_OK"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_x="193dp"
+        android:layout_y="75dp"
+        android:text="OK" />
+
+    <Button
+        android:id="@+id/SAR_Up"
+        android:layout_width="54dp"
+        android:layout_height="wrap_content"
+        android:layout_x="196dp"
+        android:layout_y="25dp"
+        android:text="Up" />
+
+    <Button
+        android:id="@+id/SAR_Left"
+        android:layout_width="67dp"
+        android:layout_height="wrap_content"
+        android:layout_x="126dp"
+        android:layout_y="72dp"
+        android:text="Left" />
+
+    <Button
+        android:id="@+id/SAR_Vid3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="104dp"
+        android:layout_y="217dp"
+        android:text="Vid3" />
+
+    <Button
+        android:id="@+id/SAR_Vid2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="54dp"
+        android:layout_y="214dp"
+        android:text="Vid2" />
+
+    <Button
+        android:id="@+id/SAR_Sleep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="398dp"
+        android:text="Sleep" />
+
+    <Button
+        android:id="@+id/SAR_2CH"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="14dp"
+        android:layout_y="324dp"
+        android:text="2 Ch" />
+
+    <Button
+        android:id="@+id/SAR_AFD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="62dp"
+        android:layout_y="323dp"
+        android:text="AFD" />
+
+    <Button
+        android:id="@+id/SAR_Tuner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="183dp"
+        android:layout_y="263dp"
+        android:text="Tuner" />
+
+    <Button
+        android:id="@+id/SAR_SACD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="129dp"
+        android:layout_y="264dp"
+        android:text="SA/CD" />
+
+    <Button
+        android:id="@+id/SAR_TV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="92dp"
+        android:layout_y="265dp"
+        android:text="TV" />
+
+    <Button
+        android:id="@+id/SAR_SAT"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="50dp"
+        android:layout_y="263dp"
+        android:text="SAT" />
+
+    <Button
+        android:id="@+id/SAR_Music"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="168dp"
+        android:layout_y="326dp"
+        android:text="Music" />
+
+    <Button
+        android:id="@+id/SAR_Movie"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="104dp"
+        android:layout_y="324dp"
+        android:text="Movie" />
+
+    <Button
+        android:id="@+id/SAR_DVD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="6dp"
+        android:layout_y="257dp"
+        android:text="DVD" />
+
+</AbsoluteLayout>

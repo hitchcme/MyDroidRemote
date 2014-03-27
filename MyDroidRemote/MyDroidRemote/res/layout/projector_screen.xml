@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget0"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="16dp"
+        android:text="Projector Screen"
+		android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/projector_up"
+        android:layout_width="154dp"
+        android:layout_height="153dp"
+        android:layout_x="165dp"
+        android:layout_y="73dp"
+        android:text="▲"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/projector_down"
+        android:layout_width="154dp"
+        android:layout_height="153dp"
+        android:layout_x="165dp"
+        android:layout_y="345dp"
+        android:text="▼"
+        android:textSize="30dp" />
+
+    <Button
+        android:id="@+id/projector_stop"
+        android:layout_width="154dp"
+        android:layout_height="119dp"
+        android:layout_x="165dp"
+        android:layout_y="226dp"
+        android:text="Stop"
+        android:textSize="30dp" />
+</AbsoluteLayout>

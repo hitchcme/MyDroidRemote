@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<PreferenceCategory 
+		android:title="Server"
+		android:key="srv_addr">
+
+		<EditTextPreference
+			android:key="srv_addr"
+			android:title="Server Address" 
+			android:summary="Define the Server Address"
+			android:dialogTitle="Server Address"
+			android:dialogMessage="Please define your Server's IP Address or Fully Qualified Domain Name"	
+			android:defaultValue="remote" />
+
+	</PreferenceCategory>
+	<PreferenceCategory 
+		android:title="Audio Mode"
+		android:key="audio_mode">
+		
+		<CheckBoxPreference 
+			android:key="audio_mode"
+			android:summary="SRS is Default"
+			android:title="SRS" 
+			android:defaultValue="false"
+		/>
+
+			
+	</PreferenceCategory>
+			
+</PreferenceScreen>
